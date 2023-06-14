@@ -23,11 +23,11 @@ static_assert(false, "Please modify your plugin information below and delete thi
 // The basic descriptions of your plugin
 // Note that the the plugin name CAN ONLY CONTAIN Enlish alphabet, digit, dash(-) and
 // underscore(_). 
-#define PLUGIN_NAME "HelloWorldPrinter"
+#define PLUGIN_NAME "LLCore"
 // Describe what your plugin does
 // We recommend you start the introduction with a third-person singular verb.
-#define PLUGIN_INTRODUCTION "Prints \"Hello, World!\" in the console."
-#define PLUGIN_AUTHOR "Me"
+#define PLUGIN_INTRODUCTION "The LewisLosaCore extension adds new commands to the game."
+#define PLUGIN_AUTHOR "LewisLosa"
 
 // The version of your plugin. If you do not know how to set it, please refer
 // to https://semver.org/ .
